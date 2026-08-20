@@ -1,1 +1,2 @@
-# universidade-plataform
+Título "Universidade Platform". 
+Uma plataforma open source modular para universidades públicas, Desenhada para apoiar serviços institucionais com inteligência artificial, automação e arquitetura baseada em agentes. Objetivo. Criar uma base reutilizável e escalável para soluções universitárias em ensino, pesquisa, extensão, assistência estudantil, saúde e gestão. Princípios. Open source, modularidade, privacidade, acessibilidade e colaboração entre instituições. Status. Projeto em fase inicial de arquitetura. Licença, MIT.# universidade-plataform
