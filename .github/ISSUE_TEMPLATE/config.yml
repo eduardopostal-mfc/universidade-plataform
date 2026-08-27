@@ -1,0 +1,6 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Segurança e privacidade
+    url: https://github.com/eduardopostal-mfc/universidade-plataform/security
+    about: Não publique dados pessoais, dados de saúde, segredos ou vulnerabilidades em issues públicas.
+

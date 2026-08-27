@@ -1,0 +1,2 @@
+"""Validadores do Universidade Platform."""
+

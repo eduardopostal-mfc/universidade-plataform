@@ -1,0 +1,4 @@
+eixo,atividade,descricao,indicador_tipo,indicador_fisico,unidade,meta,data_inicio,data_fim,responsavel,status,evidencia
+exemplo,Planejamento inicial,Definir governanca e plano de trabalho,qualitativo,Plano validado,plano,1,2026-01-01,2026-01-31,Coordenacao,planejado,
+exemplo,Encerramento,Consolidar relatorio e devolutiva,quantitativo,Relatorio final publicado,relatorio,1,2026-12-01,2026-12-31,Coordenacao,planejado,
+

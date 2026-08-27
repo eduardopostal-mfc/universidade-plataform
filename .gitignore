@@ -1,0 +1,40 @@
+# Credenciais e configuração local
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*credentials*
+*secrets*
+
+# Dados e documentos que não pertencem a um repositório público
+dados-identificaveis/
+dados-sensiveis/
+data/raw/
+data/private/
+private/
+restricted/
+*.xlsx
+*.xls
+*.ods
+*.sav
+*.zsav
+*.rdata
+*.RData
+*.rds
+*.sqlite
+*.sqlite3
+*.db
+*.docx
+*.pdf
+*.zip
+
+# Artefatos locais
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+.DS_Store
+.idea/
+.vscode/
+

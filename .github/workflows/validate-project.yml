@@ -1,0 +1,26 @@
+name: Validar projetos
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Validar estrutura e cronogramas
+        run: python3 scripts/validate_repository.py
+      - name: Executar testes
+        run: python3 -m unittest discover -s tests
+

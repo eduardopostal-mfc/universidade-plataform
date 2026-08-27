@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "Se este repositório apoiar seu projeto, cite esta versão."
+title: "Universidade Platform"
+type: software
+authors:
+  - family-names: "Postal"
+    given-names: "Eduardo Arquimino"
+repository-code: "https://github.com/eduardopostal-mfc/universidade-plataform"
+url: "https://github.com/eduardopostal-mfc/universidade-plataform"
+license: MIT
+version: 0.1.0
+date-released: 2026-08-27
+
