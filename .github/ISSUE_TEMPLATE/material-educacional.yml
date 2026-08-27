@@ -1,0 +1,48 @@
+name: Material educacional
+description: Propor ou revisar um recurso público de educação em saúde ou gestão.
+title: "[Material]: "
+labels:
+  - material-educacional
+body:
+  - type: markdown
+    attributes:
+      value: "Use somente conteúdo público e sanitizado. Não publique casos reais ou orientação individual."
+  - type: input
+    id: audience
+    attributes:
+      label: Público
+    validations:
+      required: true
+  - type: input
+    id: objective
+    attributes:
+      label: Objetivo educacional
+    validations:
+      required: true
+  - type: textarea
+    id: outline
+    attributes:
+      label: Conteúdo ou estrutura
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Fontes primárias
+      description: Inclua data de consulta e limites da evidência.
+    validations:
+      required: true
+  - type: checkboxes
+    id: review
+    attributes:
+      label: Revisões necessárias
+      options:
+        - label: Revisão técnica/de domínio identificada.
+          required: true
+        - label: Acessibilidade e linguagem simples consideradas.
+          required: true
+        - label: Direitos autorais, autoria e licença verificados.
+          required: true
+        - label: Nenhum dado pessoal, relato clínico ou promessa individual foi incluído.
+          required: true
+

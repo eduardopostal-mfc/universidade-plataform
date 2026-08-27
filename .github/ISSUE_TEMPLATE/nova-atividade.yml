@@ -1,0 +1,62 @@
+name: Nova atividade do projeto
+description: Propor uma atividade, fase ou entrega sem incluir dados pessoais.
+title: "[Atividade]: "
+labels:
+  - planejamento
+body:
+  - type: markdown
+    attributes:
+      value: "Não inclua nomes, diagnósticos, relatos identificáveis, documentos funcionais ou informações de participantes."
+  - type: input
+    id: project
+    attributes:
+      label: Projeto
+      placeholder: trabalho-autismo-cuidado-furg
+    validations:
+      required: true
+  - type: dropdown
+    id: axis
+    attributes:
+      label: Eixo
+      options:
+        - Gestão e governança
+        - Trilha de pares
+        - Trilha de gestão
+        - Repositório educacional
+        - Monitoramento e sustentabilidade
+        - Outro
+    validations:
+      required: true
+  - type: textarea
+    id: need
+    attributes:
+      label: Necessidade pública ou institucional
+      description: Descreva o problema sem narrar caso individual.
+    validations:
+      required: true
+  - type: textarea
+    id: activity
+    attributes:
+      label: Atividade proposta
+      description: Informe público, método, entrega, indicador, prazo e responsável por papel.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Fontes e referências
+      description: Inclua links primários e data de consulta.
+    validations:
+      required: true
+  - type: checkboxes
+    id: safeguards
+    attributes:
+      label: Verificações
+      options:
+        - label: A proposta não contém dados pessoais ou de saúde.
+          required: true
+        - label: Foram considerados acessibilidade e limites de competência.
+          required: true
+        - label: Está claro o que ainda depende de aprovação institucional.
+          required: true
+

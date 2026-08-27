@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "slug": "trabalho-autismo-cuidado-furg",
+  "title": "Trabalho, Autismo e Cuidado na FURG: piloto institucional multicampi",
+  "status": "minuta_para_validacao_institucional",
+  "start_date": "2026-09-01",
+  "end_date": "2027-08-31",
+  "axes": [
+    "gestao_e_governanca",
+    "trilha_pares",
+    "trilha_gestao",
+    "repositorio_educacional",
+    "monitoramento_e_sustentabilidade"
+  ],
+  "institutional_system_of_record": "FURG SisProj/SEI apos aprovacao",
+  "public_repository": true,
+  "contains_personal_or_health_data": false,
+  "classification_note": "A acao principal, as acoes relacionadas, a unidade gestora, a coordenacao formal e as cargas horarias dependem de confirmacao institucional."
+}
+
