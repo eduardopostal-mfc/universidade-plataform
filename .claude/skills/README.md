@@ -1,4 +1,15 @@
-# Skills de Instagram (`/ig-*`)
+# Skills de Claude Code do projeto
+
+## `agencia` (Efeito Di)
+
+Orquestradora da agência de conteúdo para Instagram montada sobre o método Efeito Di: faz o onboarding do cliente numa ficha única, escolhe o fluxo (onboarding, pauta da semana, produção de peça, semana de venda, revisão mensal, pedido solto) e aciona as skills de papel na ordem certa, com controle de qualidade no fim.
+
+- **Origem:** skill própria da agência Consultório Digital, de Eduardo Postal (licença MIT), copiada em 2026-10-28 do pacote `agencia.zip` da pasta "skills-zip" do Drive (versão de 2026-10-17, que inclui o papel `design-marketing-medico`). O `templates/calendario.md` veio da cópia sincronizada na conta claude.ai, porque a entrada do zip estava corrompida.
+- **Arquivos:** `agencia/SKILL.md`, `agencia/templates/cliente.md` (ficha do cliente, vazia) e `agencia/templates/calendario.md` (calendário editorial, vazio).
+- **Dependências não incluídas:** a skill delega para `efeito-di`, `estrategia`, `espionagem`, `marca`, `roteiro`, `direcao-criativa`, `stories`, `analise`, `reel`, `editor-video`, `carrossel`, `legenda`, `perfil`, `comentarios` e `design-marketing-medico`. Nenhuma delas está neste repositório; sem elas a `agencia` funciona como roteiro de atendimento, mas não consegue acionar os papéis.
+- **Dados:** a ficha preenchida (`agencia/cliente.md`), o calendário, o banco de ideias e as entregas ficam na pasta de trabalho de cada cliente, fora deste repositório, conforme a [política de dados](../../DATA_POLICY.md).
+
+## Skills de Instagram (`/ig-*`)
 
 Pacote de 13 skills para Claude Code que escrevem roteiros de reels, legendas,
 carrosséis, stories, comentários, respostas, DMs, plano semanal, auditoria e

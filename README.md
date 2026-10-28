@@ -40,7 +40,7 @@ O repositório está em fase de fundação. Seu primeiro caso de referência é 
 
 ## Skills de Claude Code
 
-O diretório `.claude/skills/` traz as 13 skills `/ig-*` do pacote open source [instagram-agent-skill](https://github.com/Jakeschincariol/instagram-agent-skill) (MIT), para produzir roteiros, legendas, carrosséis e respostas de Instagram com o Claude Code. As skills só escrevem; nada é publicado sem aprovação humana. O guia de uso em português está em [docs/skills-instagram-claude.md](docs/skills-instagram-claude.md).
+O diretório `.claude/skills/` traz as 13 skills `/ig-*` do pacote open source [instagram-agent-skill](https://github.com/Jakeschincariol/instagram-agent-skill) (MIT), para produzir roteiros, legendas, carrosséis e respostas de Instagram com o Claude Code. As skills só escrevem; nada é publicado sem aprovação humana. O guia de uso em português está em [docs/skills-instagram-claude.md](docs/skills-instagram-claude.md). O mesmo diretório traz a skill `agencia`, orquestradora da agência de conteúdo no método Efeito Di, com os modelos de ficha do cliente e calendário editorial; ver [.claude/skills/README.md](.claude/skills/README.md).
 
 ## Regra de publicação
 

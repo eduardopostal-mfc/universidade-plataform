@@ -25,3 +25,9 @@
 - **Motivo:** o guia "Skills de Instagram no Claude" (Deploy Club) recomenda a cópia das pastas `skills/ig-*` para `.claude/skills/` quando o uso é por projeto; versionar aqui mantém a mesma versão para toda a equipe e registra origem, commit e licença.
 - **Evidência:** `.claude/skills/README.md` registra o commit de origem; `docs/skills-instagram-claude.md` adapta o guia em português.
 - **Consequência:** o `voice.md` preenchido e qualquer dado de contas, comentários ou métricas ficam fora do repositório; o modelo versionado contém apenas campos vazios e a diretriz de idioma.
+
+## 2026-10-28 — Skill `agencia` no repositório
+
+- **Decisão:** incorporar apenas a skill `agencia` (orquestradora) em `.claude/skills/`, com seus dois modelos vazios, deixando as skills de papel que ela aciona fora do repositório por enquanto.
+- **Motivo:** foi o pedido feito; a skill é de autoria própria e licença MIT, e os modelos não contêm dados.
+- **Consequência:** `.claude/skills/README.md` lista as 15 dependências ausentes; a ficha preenchida, o calendário e as entregas de cada cliente permanecem fora do repositório.

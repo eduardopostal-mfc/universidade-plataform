@@ -2,7 +2,8 @@
 
 ## Não publicado
 
-- incorporação das 13 skills `/ig-*` do pacote instagram-agent-skill (MIT) em `.claude/skills/`, com modelo de `voice.md` e guia em português (`docs/skills-instagram-claude.md`).
+- incorporação das 13 skills `/ig-*` do pacote instagram-agent-skill (MIT) em `.claude/skills/`, com modelo de `voice.md` e guia em português (`docs/skills-instagram-claude.md`);
+- incorporação da skill `agencia` (orquestradora da agência de conteúdo, método Efeito Di) com os modelos `cliente.md` e `calendario.md`.
 
 ## 0.1.0 — 2026-08-27
 
