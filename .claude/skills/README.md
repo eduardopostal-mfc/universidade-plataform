@@ -1,13 +1,15 @@
 # Skills de Claude Code do projeto
 
-## `agencia` (Efeito Di)
+## Agência de conteúdo (método Efeito Di)
 
-Orquestradora da agência de conteúdo para Instagram montada sobre o método Efeito Di: faz o onboarding do cliente numa ficha única, escolhe o fluxo (onboarding, pauta da semana, produção de peça, semana de venda, revisão mensal, pedido solto) e aciona as skills de papel na ordem certa, com controle de qualidade no fim.
+Time de 16 skills próprias da agência Consultório Digital, de Eduardo Postal (licença MIT), que produzem conteúdo de Instagram no método Efeito Di: `agencia` (orquestradora), `efeito-di` (método), `estrategia`, `espionagem`, `marca`, `roteiro`, `direcao-criativa`, `stories`, `analise`, `reel`, `editor-video`, `carrossel`, `legenda`, `perfil`, `comentarios` e `design-marketing-medico`. A `agencia` virou **agente coordenador** com um subagente por papel; ver [../agents/README.md](../agents/README.md).
 
-- **Origem:** skill própria da agência Consultório Digital, de Eduardo Postal (licença MIT), copiada em 2026-10-28 do pacote `agencia.zip` da pasta "skills-zip" do Drive (versão de 2026-10-17, que inclui o papel `design-marketing-medico`). O `templates/calendario.md` veio da cópia sincronizada na conta claude.ai, porque a entrada do zip estava corrompida.
-- **Arquivos:** `agencia/SKILL.md`, `agencia/templates/cliente.md` (ficha do cliente, vazia) e `agencia/templates/calendario.md` (calendário editorial, vazio).
-- **Dependências não incluídas:** a skill delega para `efeito-di`, `estrategia`, `espionagem`, `marca`, `roteiro`, `direcao-criativa`, `stories`, `analise`, `reel`, `editor-video`, `carrossel`, `legenda`, `perfil`, `comentarios` e `design-marketing-medico`. Nenhuma delas está neste repositório; sem elas a `agencia` funciona como roteiro de atendimento, mas não consegue acionar os papéis.
-- **Dados:** a ficha preenchida (`agencia/cliente.md`), o calendário, o banco de ideias e as entregas ficam na pasta de trabalho de cada cliente, fora deste repositório, conforme a [política de dados](../../DATA_POLICY.md).
+- **Origem:** cópia sincronizada das skills da conta claude.ai em 2026-10-28, sem alterações de conteúdo, exceto o que segue. A `agencia` veio do `agencia.zip` do Drive (versão de 2026-10-17, que inclui o papel `design-marketing-medico`); o `templates/calendario.md` veio da cópia sincronizada, porque a entrada do zip estava corrompida.
+- **`design-marketing-medico`:** reconstruída a partir do texto integral em `skills-agencia-efeito-di-orientador.md` (Drive), pois não havia cópia sincronizada. A pasta `referencias/` que ela cita (texto da Resolução CFM 2.336/2023) não foi incluída.
+- **Dados removidos:** `editor-video/estudio/exemplo-gravado.json` trazia nome, CRM, RQE, WhatsApp e @ reais; foram trocados por marcadores (`[Nome completo]`, `CRM-UF 00000`, `RQE 00000`, `(00) 00000-0000`, `@seuperfil`). Na `design-marketing-medico`, o RQE do exemplo de reescrita virou `RQE 00000`.
+- **Caminhos:** as skills citam `~/.claude/skills/<nome>/`; neste repositório o caminho é `.claude/skills/<nome>/`. Os agentes já fazem essa tradução.
+- **Ferramentas externas:** `reel` e `editor-video` dependem de Node, Remotion, ffmpeg e Whisper na máquina da pessoa; `carrossel` depende de Playwright. Nada disso roda no GitHub Actions.
+- **Dados:** a ficha preenchida (`agencia/cliente.md`), o calendário, o banco de ideias, comentários, métricas e as entregas de cada cliente ficam na pasta de trabalho do cliente, fora deste repositório, conforme a [política de dados](../../DATA_POLICY.md).
 
 ## Skills de Instagram (`/ig-*`)
 

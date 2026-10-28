@@ -1,0 +1,191 @@
+{
+  "cores": {
+    "fundo": "#F7E4D4",
+    "texto": "#2B2420",
+    "destaque": "#9E2432",
+    "suave": "#7A5C4A",
+    "sobreDestaque": "#F7E4D4"
+  },
+  "fonte": "Montserrat",
+  "fonteItalica": "Caveat",
+  "video": "fonte.mov",
+  "cortes": [
+    {
+      "inicio": 26.1,
+      "fim": 42.8
+    },
+    {
+      "inicio": 56.5,
+      "fim": 67.5
+    },
+    {
+      "inicio": 101.8,
+      "fim": 114.8
+    },
+    {
+      "inicio": 161.8,
+      "fim": 181.8
+    }
+  ],
+  "headline": {
+    "texto": "Ninguém nasce gay. A gente se torna.",
+    "destaque": "se torna",
+    "duracao": 3.0,
+    "topo": 170
+  },
+  "selo": "Cuidado afirmativo",
+  "filtro": "brightness(1.18) contrast(1.04)",
+  "rodape": "[Nome completo] · MÉDICO · CRM-UF 00000 · Medicina de Família e Comunidade · RQE 00000",
+  "legenda": [
+    {
+      "inicio": 0.62,
+      "fim": 3.26,
+      "texto": "uma expressão de Simone"
+    },
+    {
+      "inicio": 3.26,
+      "fim": 5.24,
+      "texto": "de Beauvoir que refere"
+    },
+    {
+      "inicio": 5.24,
+      "fim": 7.16,
+      "texto": "a tornar -se mulher"
+    },
+    {
+      "inicio": 7.16,
+      "fim": 9.26,
+      "texto": "que ninguém nasce mulher"
+    },
+    {
+      "inicio": 9.26,
+      "fim": 11.56,
+      "texto": "ela se torna assim"
+    },
+    {
+      "inicio": 11.56,
+      "fim": 13.48,
+      "texto": "como gays ninguém nasce"
+    },
+    {
+      "inicio": 13.48,
+      "fim": 15.6,
+      "texto": "gay a pessoa se"
+    },
+    {
+      "inicio": 15.6,
+      "fim": 16.55,
+      "texto": "torna gay"
+    },
+    {
+      "inicio": 16.8,
+      "fim": 19.26,
+      "texto": "tornar ser gay tornar"
+    },
+    {
+      "inicio": 19.26,
+      "fim": 21.56,
+      "texto": "-se gay significa muito"
+    },
+    {
+      "inicio": 21.56,
+      "fim": 22.68,
+      "texto": "mais do que desejo"
+    },
+    {
+      "inicio": 22.68,
+      "fim": 25.68,
+      "texto": "significa identificar -se o"
+    },
+    {
+      "inicio": 25.68,
+      "fim": 26.6,
+      "texto": "jeito que você se"
+    },
+    {
+      "inicio": 26.6,
+      "fim": 27.81,
+      "texto": "apresenta ao mundo"
+    },
+    {
+      "inicio": 28.02,
+      "fim": 29.4,
+      "texto": "para você que tá"
+    },
+    {
+      "inicio": 29.4,
+      "fim": 32.84,
+      "texto": "nessa jornada a ajuda"
+    },
+    {
+      "inicio": 32.84,
+      "fim": 33.96,
+      "texto": "que a gente pode"
+    },
+    {
+      "inicio": 33.96,
+      "fim": 35.26,
+      "texto": "oferecer enquanto médico de"
+    },
+    {
+      "inicio": 35.26,
+      "fim": 37.99,
+      "texto": "família é esclarecer"
+    },
+    {
+      "inicio": 40.68,
+      "fim": 42.42,
+      "texto": "processo fácil é um"
+    },
+    {
+      "inicio": 42.42,
+      "fim": 45.04,
+      "texto": "processo muitas vezes dolorido"
+    },
+    {
+      "inicio": 45.04,
+      "fim": 48.04,
+      "texto": "com sofrimento mas que"
+    },
+    {
+      "inicio": 48.04,
+      "fim": 49.64,
+      "texto": "vale a pena um"
+    },
+    {
+      "inicio": 49.64,
+      "fim": 52.49,
+      "texto": "esforço sustenta esse caminho"
+    },
+    {
+      "inicio": 52.77,
+      "fim": 54.82,
+      "texto": "que talvez logo ali"
+    },
+    {
+      "inicio": 54.82,
+      "fim": 56.88,
+      "texto": "você se tornará uma"
+    },
+    {
+      "inicio": 56.88,
+      "fim": 59.93,
+      "texto": "pessoa completamente diferente"
+    }
+  ],
+  "fechamento": {
+    "duracao": 5,
+    "chamada": "Comenta",
+    "palavra": "CONSULTA",
+    "promessa": "que eu te conto como é uma consulta que começa pela sua história",
+    "assinatura": {
+      "marca": "[Marca]",
+      "descricao": "Um médico para chamar de seu",
+      "whatsapp": "(00) 00000-0000",
+      "detalhe": "WhatsApp · consulta online, por vídeo",
+      "nome": "[Nome completo] · MÉDICO",
+      "registro": "CRM-UF 00000 · Medicina de Família e Comunidade · RQE 00000",
+      "perfil": "@seuperfil"
+    }
+  }
+}

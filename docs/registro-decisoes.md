@@ -26,8 +26,9 @@
 - **Evidência:** `.claude/skills/README.md` registra o commit de origem; `docs/skills-instagram-claude.md` adapta o guia em português.
 - **Consequência:** o `voice.md` preenchido e qualquer dado de contas, comentários ou métricas ficam fora do repositório; o modelo versionado contém apenas campos vazios e a diretriz de idioma.
 
-## 2026-10-28 — Skill `agencia` no repositório
+## 2026-10-28 — Agência de conteúdo como agente coordenador
 
-- **Decisão:** incorporar apenas a skill `agencia` (orquestradora) em `.claude/skills/`, com seus dois modelos vazios, deixando as skills de papel que ela aciona fora do repositório por enquanto.
-- **Motivo:** foi o pedido feito; a skill é de autoria própria e licença MIT, e os modelos não contêm dados.
-- **Consequência:** `.claude/skills/README.md` lista as 15 dependências ausentes; a ficha preenchida, o calendário e as entregas de cada cliente permanecem fora do repositório.
+- **Decisão:** incorporar as 16 skills da agência (método Efeito Di) em `.claude/skills/` e definir em `.claude/agents/` um agente coordenador `agencia`, um subagente por papel e um revisor de qualidade, em vez de deixar a orquestração implícita em uma skill só.
+- **Motivo:** as skills são de autoria própria e licença MIT; como agentes, cada papel roda com contexto limpo, em paralelo quando há lote, e o coordenador controla ficha, aprovação e QC.
+- **Evidência:** origem, versões e ajustes registrados em `.claude/skills/README.md`; contrato de delegação em `.claude/agents/agencia.md`.
+- **Consequência:** dados pessoais do exemplo de `editor-video` foram substituídos por marcadores; a ficha preenchida, o calendário e as entregas de cada cliente permanecem fora do repositório público.
