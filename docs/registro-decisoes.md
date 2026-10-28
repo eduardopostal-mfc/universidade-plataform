@@ -19,3 +19,9 @@
 - **Motivo:** permite testar a estrutura com trilha de pares, formação de gestores, repositório educacional, governança e avaliação.
 - **Questões abertas:** modalidade principal no SisProj, unidade gestora, coordenação formal, equipe, cargas horárias, anuências e datas definitivas.
 
+## 2026-10-28 — Skills de Instagram no escopo do projeto
+
+- **Decisão:** incorporar o pacote `instagram-agent-skill` (Jake Schincariol, MIT) em `.claude/skills/`, no escopo do projeto, em vez de instalar apenas na máquina de cada pessoa.
+- **Motivo:** o guia "Skills de Instagram no Claude" (Deploy Club) recomenda a cópia das pastas `skills/ig-*` para `.claude/skills/` quando o uso é por projeto; versionar aqui mantém a mesma versão para toda a equipe e registra origem, commit e licença.
+- **Evidência:** `.claude/skills/README.md` registra o commit de origem; `docs/skills-instagram-claude.md` adapta o guia em português.
+- **Consequência:** o `voice.md` preenchido e qualquer dado de contas, comentários ou métricas ficam fora do repositório; o modelo versionado contém apenas campos vazios e a diretriz de idioma.
