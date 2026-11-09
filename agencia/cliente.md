@@ -81,5 +81,6 @@
 | `[PREENCHER]` 2 perfis de saúde gay/PrEP com 50–500 mil que ele acompanha | | | | |
 
 ## 10. Histórico (mais recente primeiro)
+- 2026-11-09 — Adendo de impulsionamentos em `analise-2026-11.md`: sem Meta Ads conectado; ~67 mil de alcance pago inferido no profissional em 3 janelas (16/10, 21–28/10, 03–07/11), 1.254 seguidores (93 % da base) que não assistem (mediana de 29 de alcance por reel). Pessoal sem mídia paga; **2 toques no link do perfil em 30 dias**. Decisão: pausar pago de seguidor; CTA de reel vira palavra-chave; primeiro teste pago = guia check-up com objetivo mensagens.
 - 2026-11-09 — `analise-2026-11.md`: dados Metricool de 3 contas (11/08–09/11). Ficha reescrita com dados reais (nome, CRM/RQE, nicho homens gays, produto, palavra-chave). Formato vencedor candidato "E agora?". Decisões propostas: uma conta de conteúdo, fim das duplicatas, 4 reels + 1 carrossel/semana, CTA único CONSULTA, 4 linhas. Pendente: confirmar impulsionamento 24–28/10, directs/consultas do mês, qual conta fica.
 - 2026-11-06 — Estudo de mercado e benchmark concluídos (`estudo-mercado-medico-de-familia.md`); ficha criada com hipóteses; `banco.md` e `calendario.md` (rascunho de 30 dias) criados. Pendente: entrevista de 6 perguntas (`README.md`), auditoria `perfil`, `marca`.

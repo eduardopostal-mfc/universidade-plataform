@@ -104,3 +104,37 @@ Não havia promessa registrada; a prática foi de 21 a 27 reels por semana no pe
 2. Quantas mensagens com CONSULTA / CHECK / PISTA / TRIPÉ chegaram no direct e no WhatsApp no mês, e quantas viraram consulta agendada?
 3. Print de Insights → Conteúdo → "Transei sem camisinha", "No pelo ep. 1" e "DoxiPEP toda vez": retenção por segundo e seguidores ganhos por post.
 4. Qual conta você quer manter como conta de conteúdo?
+
+---
+
+## Impulsionamentos (adendo de 09/11, a pedido)
+
+**Limite da leitura.** Nem o Metricool nem o Windsor têm o Gerenciador de Anúncios da Meta conectado: todos os campos pagos (gasto, alcance pago, cliques pagos, campanhas) vieram vazios nas duas contas. O que segue é reconstrução a partir de três fontes indiretas: alcance diário da conta × alcance orgânico das peças publicadas no dia (Metricool), seguidores ganhos por dia (Metricool) e, para o pessoal, alcance de seguidores × não seguidores e toques no link do perfil (Windsor, API do Instagram). Para ler custo por seguidor e por mensagem, conecte a conta de anúncios ao Metricool (marca → conexões → Meta Ads) e me diga o gasto.
+
+### Onde houve dinheiro
+No **@arquimino.postal (pessoal) não há sinal de mídia paga**: nenhuma mídia marcada como anúncio, alcance diário igual à soma do orgânico, e o alcance de não seguidores oscilou entre 5 e 260 pessoas por dia. No **@eduardopostalsaudeintegral (profissional)** o alcance da conta superou em muito o que as peças publicadas alcançaram, em três janelas:
+
+| Janela | Excedente de alcance (provável pago) | Seguidores ganhos | Seguidores por mil alcançados | Leitura |
+|---|---|---|---|---|
+| 16/10 (1 dia) | ~4.800 | 0 | 0 | Objetivo de alcance ou visualização, sem efeito em seguidores (hipótese) |
+| 21 a 28/10 (8 dias) | ~37.700 | 1.161 | ~31 | Objetivo "mais seguidores / visitas ao perfil": entregou seguidores barato em volume, com pico de 247 em 25/10 |
+| 03 a 07/11 (5 dias) | ~24.600 | 93 | ~4 | Mesma mecânica, oito vezes menos eficiente; coincide com 17 reels publicados em 05/11 e 3 cópias de "Quanto de você fica de fora" (hipótese: foi esse o reel turbinado) |
+| **Total** | **~67.000** | **1.254** | ~19 | 93 % dos seguidores da conta vieram de dias pagos |
+
+### O que os seguidores comprados fazem depois
+- Nos dias pagos, "contas engajadas" chegou a 500–770 por dia, mas as interações reais (curtidas, salvos, comentários, compartilhamentos) ficaram em 2 a 30 por dia: o engajamento contado foi o próprio toque em "seguir".
+- Depois da janela de outubro, com 1.050 a 1.350 seguidores, os reels da conta alcançaram **mediana de 29 pessoas** (2 % da base). No pessoal, sem mídia paga, a mesma peça alcança 4 % da base. A base paga é mais fria que a orgânica.
+- Em 05/11, 19 peças e ~10 mil de alcance pago renderam 46 seguidores e 6 compartilhamentos. Pagar para entregar duplicata do pessoal é pagar para o Instagram aprender que a conta repete.
+
+### Veredito
+Os impulsionamentos **compraram número, não público**: 1.254 seguidores que não assistem, numa conta que duplica o conteúdo da outra. Dentro do método, impulsionar só vale para conteúdo já validado no orgânico, com objetivo de **mensagem** ou **salvamento**, nunca de seguidor. O custo real de outubro eu não sei; peça esse número ao Gerenciador e compare com o que uma consulta paga.
+
+### O dado mais importante da auditoria inteira
+No pessoal, em 30 dias (10/10 a 08/11), com ~15.000 pessoas alcançadas e 1.900 interações, houve **2 toques no link do perfil**. Quase todo CTA do mês mandou para "o link da bio" ou para o canal, e ninguém foi. O caminho de venda que funciona na conta é o que já apareceu nos dados: comentário com palavra-chave e direct. As peças que levam ao perfil são os carrosséis (o de lançamento gerou 79 visitas ao perfil e 5 seguidores; o guia check-up, 9 visitas e 15 salvos). Reels não geram visita ao perfil mensurável.
+
+### Decisões sobre pago (substituem a seção "Impulsionar" acima onde conflitarem)
+1. **Pausar** qualquer impulsionamento com objetivo de seguidores ou visitas no profissional até decidir qual conta fica.
+2. **Primeiro teste pago**: guia-imagem "Check-up do homem gay" na conta de conteúdo, objetivo **mensagens**, CTA "manda CHECK", homens 25–45, RS + POA + SP + RJ, R$ 15/dia por 7 dias. Métrica de sucesso: conversas iniciadas, não alcance.
+3. **Segundo teste**, só se o primeiro der conversa: "Faço no pelo… DoxiPEP toda vez?" com CTA CONSULTA.
+4. **Trocar o CTA "link da bio" por "comenta X"** em todo reel; link da bio só em carrossel e stories, onde o toque existe.
+5. Conectar Meta Ads ao Metricool antes de gastar o próximo real, para que a próxima análise leia custo por conversa.
