@@ -38,3 +38,6 @@ Status: ideia → roteiro → gravação → edição → pronto → publicado �
 - Novembro Azul (linha 1: "exame de próstata: quem precisa e quem não precisa")
 - 05/12 Dia do Médico de Família e Comunidade (linha 4; confirmar data com a SBMFC)
 - Pauta quente da semana: ver `banco.md`
+
+## Revisão 2026-11-09 (após `analise-2026-11.md`)
+Este rascunho foi feito para a persona-hipótese "Carla" e está **superado**. O calendário de dezembro deve ser refeito com as 4 linhas reais da ficha (saúde sexual "E agora?" · cabeça, sono e pista · um médico pra chamar de seu · pauta quente), 4 reels + 1 carrossel por semana numa só conta, e as peças dos 3 R's: recriar "Transei sem camisinha, e agora?" com rosto (semana de 17/11); carrossel checklist de rastreio com CHECK (semana de 24/11); "3 combinados antes da festa" antes do Réveillon; repostar #chemsex (08/12) e "Ser GAY não resume a sua saúde" (15/12); "No pelo" temporada 2 em janeiro.

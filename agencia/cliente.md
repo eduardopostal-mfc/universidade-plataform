@@ -6,65 +6,66 @@
 > entrevista. Hipóteses estão marcadas como (hipótese); viram decisão depois da resposta do médico.
 
 ## 1. Negócio
-- **Nome / @**: `[PREENCHER]`
-- **Cidade / região de atendimento**: `[PREENCHER]` (define raio do público e o campo Nome)
-- **CRM / RQE em Medicina de Família e Comunidade**: `[PREENCHER]` (sem RQE não pode anunciar "médico de família"; muda bio e Nome)
-- **O que vende (produto ou serviço principal, ticket)**: `[PREENCHER]` consulta particular presencial? teleconsulta? acompanhamento/assinatura mensal? valor?
-- **Objetivo do perfil (negócio, não vaidade)**: (hipótese) agendar primeiras consultas de médico de família na cidade; construir base de famílias em acompanhamento contínuo
-- **Meta do trimestre**: `[PREENCHER]` N primeiras consultas atribuídas ao Instagram em 90 dias (N = vagas disponíveis na agenda × taxa realista)
-- **Prova e autoridade reais** (números, prêmios, formação, clientes): `[PREENCHER]` residência em MFC? anos de atenção primária? número de famílias acompanhadas? título SBMFC? docência?
+- **Nome / @**: Eduardo Arquimino Postal · **@arquimino.postal** (pessoal, ~6.500 seguidores, Instagram + TikTok @arquiminopostal) · **@eduardopostalsaudeintegral** (profissional, criado out/2026, 1.348 seguidores em 08/11) · marca "Arquimino Postal · Um médico para chamar de seu" (lido do Metricool em 2026-11-09)
+- **Cidade / região de atendimento**: presencial no RS (DDD 53, Rio Grande/FURG); online para todo o Brasil
+- **CRM / RQE em Medicina de Família e Comunidade**: CRM-RS 44235 · RQE 37635 (pode anunciar "Médico de Família e Comunidade"; já aparece em todas as legendas)
+- **O que vende (produto ou serviço principal, ticket)**: **Consulta Médica Integral**, online por vídeo ou presencial; teleconsulta de retorno em até 48 h; agendamento por WhatsApp (só data/horário). Valor: `[PREENCHER]`
+- **Objetivo do perfil (negócio, não vaidade)**: agendar consultas integrais com homens gays e bi; construir acompanhamento longitudinal ("um médico pra chamar de seu")
+- **Meta do trimestre**: `[PREENCHER]` N consultas/mês atribuídas às redes (medir pela palavra-chave e pela pergunta "como me conheceu")
+- **Prova e autoridade reais**: MFC com RQE; professor de Atenção Primária e preceptor de residência de MFC na FURG; coautor do livro "Saúde LGBTQIA+: práticas de cuidado transdisciplinar" (2ª ed., 2026); formado no SUS/APS; fala "de dentro" da comunidade
 
 ## 2. Posicionamento
-- **Frase** (hipótese A, recomendada): Meu perfil é sobre **saúde da família inteira**, focado em **quem cuida da casa e quer um médico que conheça todo mundo**, com objetivo de **agendar a primeira consulta de médico de família em [cidade]**.
-- **Frase** (hipótese B): Meu perfil é sobre **medicina sem exagero**, focado em **adultos e idosos cansados de exame e remédio demais**, com objetivo de **agendar acompanhamento contínuo**.
-- **Nicho**: saúde para leigos / **Subnicho**: medicina de família (a pessoa inteira, a família inteira, ao longo da vida)
+- **Frase** (lida do conteúdo real, 2026-11-09): Meu perfil é sobre **saúde de homens gays e bi, inteira e sem culpa**, focado em **quem deixa partes de si na porta do consultório (sexo, cabeça, festa, namorado)**, com objetivo de **agendar a Consulta Médica Integral e manter acompanhamento**.
+- **Nicho**: saúde para leigos / **Subnicho**: medicina de família com cuidado afirmativo para homens gays e bi (saúde sexual, saúde mental, redução de danos)
 - **Mensagens principais (1 ou 2 que vão se repetir)**:
-  1. "Você precisa de um médico que conheça você, não de um especialista para cada pedaço."
-  2. "Na maioria das vezes, menos exame e menos remédio é mais saúde."
-- **3 diferenciais adaptados dos concorrentes**: react com credencial (Doctor Mike / Karan Rajan); pauta quente com pé no consultório (Amir Khan); calma contra o medo (Daniel Becker)
-- **3 brechas que viram vantagem**: "quando procurar quem" (navegar o sistema); "menos é mais" em palavras de gente; a família inteira em um só médico (falar com a cuidadora)
+  1. "Um médico só, pra chamar de seu, que olha corpo, cabeça, sexo e contexto na mesma conversa."
+  2. "Dá pra se cuidar sem culpa e sem sermão: informação, não moral." (variante do "menos é mais": exame útil é o que muda uma decisão)
+- **3 diferenciais adaptados dos concorrentes**: react/pauta quente com credencial (Felca, bets, Novembro Azul); pergunta literal do paciente como gancho ("E agora?"); lista numerada com tempo (agora / 30 dias / antes da próxima)
+- **3 brechas que viram vantagem**: ninguém no Brasil fala de saúde sexual gay com RQE de MFC e sem moralismo; redução de danos (chemsex, pista, cannabis) com credencial é terreno vazio; "o médico que você pode contar do namorado" como promessa de vínculo
+- **Hipótese anterior (06/11, descartada pelos dados)**: persona "Carla, 42, cuidadora da família" e linhas genéricas de medicina de família; mantidas em `estudo-mercado-medico-de-familia.md` como referência, não como decisão
 
 ## 3. Público e persona
-- **Público** (hipótese): 30–60 anos, classe B/C+, cidade e região do consultório (raio 30 km), com plano ou disposição a pagar particular, leigos, cansados de pular de especialista; consomem Instagram à noite, sem som, com legenda
-- **Persona** (hipótese): **Carla, 42**, analista administrativa, casada, filhos de 9 e 14, mãe de 71 com pressão alta e diabetes; coordena a saúde de três gerações; três grupos de WhatsApp da família cheios de "chá que cura"
-- **Frase típica da persona**: "Eu levo todo mundo no médico, menos eu."
-- **Persona secundária**: Seu Antônio, 68, seis remédios, quatro especialistas; "cada médico pede um exame e ninguém me explica nada"
-- **Palavras do público (campo semântico)**: pressão alta, açúcar no sangue, check-up, exame de sangue, remédio tarja preta, posto, plano, pronto-socorro, gripe forte, dor nas costas, ansiedade, sono, menopausa, "minha mãe", "meu filho", "o médico pediu"
-- **Evitar nos 3 primeiros segundos**: APS, atenção primária, longitudinalidade, prevenção quaternária, MFC, HAS, DM2, polifarmácia, rastreamento, iatrogenia
-- **Objeções mais comuns** (hipótese, validar na caixinha): "médico de família é clínico geral do posto"; "prefiro ir direto no especialista"; "meu plano não cobre"; "é caro para uma consulta que não pede exame"; "é longe / não tenho tempo"
+- **Público**: homens gays e bi, 25–45 anos, capitais e RS, usam ou pensam em PrEP, frequentam festa/apps, classe B/C+, consomem Instagram e TikTok à noite com legenda; alguns já vivem com HIV
+- **Persona** (dos próprios posts que performaram): **Gabriel, 31**, analista, Porto Alegre, mora sozinho, 300 matches e nenhuma conversa, bebe pra encarar a festa, usa PrEP de vez em quando, nunca contou pro médico que tem namorado, teve sífilis uma vez e não sabe se "passou"
+- **Frase típica da persona**: "Transei sem camisinha, e agora?" · "Eu nunca contei pro médico que saio com homens."
+- **Persona secundária**: Marcos, 46, chemsex como lugar de pertencer, sacola de remédios de quatro especialistas que não conversam
+- **Palavras do público (campo semântico, lidas nas legendas que performaram)**: no pelo, capa, PrEP, PEP, teste, ferida, "deu positivo", namorado, festa, pista, bala, maconha, sono, ansiedade, sozinho, match, "sem sermão", "sem julgamento", SUS de graça
+- **Evitar nos 3 primeiros segundos**: longitudinalidade, biopsicossocial, clínica ampliada, estresse de minoria, iatrogenia, coordenação do cuidado, método clínico centrado na pessoa, nomes de autores
+- **Objeções mais comuns** (hipótese, validar na caixinha): "médico de família é clínico do posto"; "vou direto no infecto"; "é online, não examina"; "quanto custa"; "tenho vergonha de contar"
 
 ## 4. Linhas editoriais (3 a 5, puxadas do produto)
 | Linha | Dor que resolve | Ângulos possíveis | Funil predominante |
 |---|---|---|---|
-| 1. Quando procurar quem (porta de entrada) | não sei se é urgência, especialista ou passa sozinho | PS × consultório, sinais de alarme, o que o posto resolve, especialista certo para…, pauta quente | topo |
-| 2. Menos remédio, mais saúde (diferencial) | faço/tomo coisa demais e ninguém revisa | exame de rotina inútil, check-up, sacola de remédios do idoso, mito de suplemento, react a viral | topo / meio |
-| 3. Saúde da casa inteira (conexão) | cuido de todo mundo e ninguém cuida de mim | a cuidadora, criança + avô na mesma consulta, história anonimizada, bastidor, minha própria família | meio |
-| 4. Como funciona um médico de família (venda) | nunca tive um; o que acontece, quanto custa, vale a pena? | primeira consulta passo a passo, valores, o que levar, acompanhamento, agradecimentos repostados | fundo |
+| 1. Saúde sexual sem culpa ("E agora?") — porta de entrada | pânico depois do sexo, vergonha de perguntar | PEP, PrEP, DoxiPEP, sífilis, HPV, "no pelo", teste, "deu positivo, e agora?" | topo |
+| 2. Cabeça, sono e pista — diferencial | ansiedade, solidão, álcool pra encarar, cannabis, chemsex | redução de danos, abstinência, 3 combinados antes da festa, sono × álcool, "não é fraqueza" | topo / meio |
+| 3. Um médico pra chamar de seu — venda (1×/semana) | cada sintoma um médico; esconder o namorado do médico | como é a consulta integral, "quanto de você fica de fora", caso composto, valor e agendamento, depoimentos repostados | fundo |
+| 4. Pauta quente com pé no consultório — ancoragem (1×/semana) | notícia que mexe com a comunidade | Felca, bets, looksmaxxing, Novembro Azul, campanhas; informar sem polemizar | topo |
+| Tempero (não linha) | | filosofia (Nietzsche, Foucault, Butler, Kafka), determinantes sociais, SUS: entram como analogia ou legenda, não como reel próprio | |
 
 ## 5. Marca e personagem
-- **Como quero que falem de mim quando não estou**: `[PREENCHER]` (sugestão para reagir: "o médico que olha a pessoa inteira e fala a verdade sem assustar")
-- **3 características**: `[PREENCHER]` (sugestão: calmo, direto, de família)
-- **Arquétipo(s)**: `[PREENCHER]` (sugestão: Cuidador + Sábio)
-- **Elementos visuais** (cor, objeto, roupa, cenário): `[PREENCHER]` (hipótese: consultório real, luz natural, uma cor sóbria fixa, sem jaleco branco "de banco de imagem"; objeto a descobrir na skill `marca`)
-- **Constantes técnicas**: `[PREENCHER]` após o primeiro lote (fonte única, legenda abaixo do queixo, headline de 2–3 linhas, cartão final com nome · CRM · RQE · cidade)
-- **Tom de voz**: acolhedor, direto, didático; sem sarcasmo; humor leve só em bastidor
-- **Personagem / quadro**: (hipótese) "Pergunta da sala de espera": uma dúvida real (anonimizada) respondida em 45 s, sempre no mesmo lugar, mesma entrada
+- **Como quero que falem de mim quando não estou**: (lido da marca atual) "o médico que você pode contar tudo, sem sermão" · frase-norte registrada: "o cuidado começa no vínculo" · assinatura: "Um médico pra chamar de seu"
+- **3 características** (observadas): direto, culto sem ser hermético, da comunidade (fala "de dentro")
+- **Arquétipo(s)**: Cuidador + Sábio, com um pé no Fora-da-lei (pista, redução de danos). `[CONFIRMAR]` com `marca`
+- **Elementos visuais**: símbolo de dois círculos (cheio + traço, encontro em verde); trilha techno (Pixabay) nos reels de pista; avatar IA "clone Arquimino Postal". `[PREENCHER]` cor principal, roupa, cenário fixo
+- **Constantes técnicas**: `[DEFINIR na skill marca após a análise de 09/11]` fonte única, headline 2–3 linhas, legenda abaixo do queixo, cartão final nome · CRM-RS 44235 · RQE 37635; rodapé de legenda já padronizado ("Conteúdo educativo. Não substitui consulta nem atendimento de urgência.")
+- **Tom de voz**: direto, sem julgamento, "conversa de gente adulta"; cita fonte; evita moral
+- **Personagem / quadro**: **"E agora?"** (decisão 09/11): pergunta literal do paciente nos 2 primeiros segundos, rosto real, 3 passos com tempo, 45–60 s, fecho "manda pro amigo" + CONSULTA
 
 ## 6. Formatos
-- **3 estruturas em teste** (de `espionagem`): react em tela dividida · opinião lo-fi "o que eu faria se fosse meu pai/minha mãe" · carrossel checklist "antes de…"
-- **Formato de gravação preferido**: `[PREENCHER]` (recomendação: tela dividida para linhas 1–2, lo-fi para linhas 3–4)
-- **Formato vencedor**: `[PREENCHER]` após 30 dias
-- **Conforto em vídeo**: `[PREENCHER]` grava com rosto? edita? tem editor?
+- **3 estruturas em teste**: "E agora?" (pergunta + 3 passos com tempo) · tela dividida react/pauta quente (Felca, bets) · carrossel checklist com lead magnet (CHECK)
+- **Formato de gravação preferido**: lo-fi com headline (rosto) e tela dividida; avatar IA só para pauta quente, 1×/semana, sempre com aviso
+- **Formato vencedor** (2026-11-09, candidato; confirmar com 3 repetições): **"E agora?"** — "No pelo ep.1" 807 alcance/22 compart.; "DoxiPEP toda vez" 632/6 salvos/8 compart.; "Transei sem camisinha" estrutura 21/25 no FVC
+- **Conforto em vídeo**: grava com rosto, edita sozinho, produz em volume alto (84 reels/5 semanas); já usa avatar e voz IA próprios. Risco: exaustão relatada em 05/11
 
 ## 7. Rotina
-- **Frequência prometida**: (hipótese) 3 reels + 1 carrossel por semana; `[PREENCHER]` dia de gravação em lote
-- **Stories**: ritual "café antes do consultório" (1 pergunta da caixinha em 30 s), dias úteis; `[PREENCHER]` horário
+- **Frequência prometida**: **proposta 09/11: 4 reels + 1 carrossel/semana, numa só conta, máximo 1 reel/dia**; praticada em out/nov: 21–27 reels/semana no pessoal + até 17/dia no profissional + TikTok diário. `[CONFIRMAR]`
+- **Stories**: `[PREENCHER]` (Metricool não registrou stories no período)
 - **Direct**: 30 min/dia; `[PREENCHER]` horário
-- **Ferramentas**: `[PREENCHER]` (sugestão: CapCut, Notion para o calendário, pasta de salvos no Instagram espião)
+- **Ferramentas**: Metricool (3 contas), avatar/voz IA, trilhas Pixabay, canal de transmissão do Instagram ("uma mensagem por dia"), WhatsApp comercial
 
 ## 8. Oferta atual
-- **O que está vendendo agora**: `[PREENCHER]` promessa, para quem, preço, link de agendamento
-- **Palavra-chave de comentário / direct**: (hipótese) **FAMÍLIA**
+- **O que está vendendo agora**: Consulta Médica Integral (online Brasil / presencial RS), "você fala primeiro", corpo + cabeça + sexo + contexto, plano com começo, meio e fim; retorno por teleconsulta em 48 h. Preço: `[PREENCHER]`. Lead magnet: PDF "Check-up do homem gay" (palavra CHECK)
+- **Palavra-chave de comentário / direct**: **CONSULTA** (decisão 09/11: única por 30 dias; aposentar TRIPÉ, PISTA e "entra no canal" como CTA principal). CHECK só no lead magnet
 
 ## 9. Concorrentes e referências
 | @ | Seguidores (aprox.) | Estrutura que mais bomba | O que adaptar | Brecha |
@@ -76,7 +77,9 @@
 | @danielbecker (pediatra, BR) | 300+ mil | opinião calma contra excesso | falar com a cuidadora | público só infantil |
 | @drauziovarella (BR) | 1+ mi | explicação simples | tom e bio | marca de décadas |
 | @doutor.de.gente (MFC, BR) | ~38 mil (indexado) | conteúdo para médicos de UBS | confirma brecha | fala com médicos, não pacientes |
-| `[PREENCHER]` 3 perfis locais ou que o médico admira | | | | |
+| @tiangranero (citado como inspiração em 19/10) | `[PREENCHER]` | carrossel reflexivo | tom | |
+| `[PREENCHER]` 2 perfis de saúde gay/PrEP com 50–500 mil que ele acompanha | | | | |
 
 ## 10. Histórico (mais recente primeiro)
+- 2026-11-09 — `analise-2026-11.md`: dados Metricool de 3 contas (11/08–09/11). Ficha reescrita com dados reais (nome, CRM/RQE, nicho homens gays, produto, palavra-chave). Formato vencedor candidato "E agora?". Decisões propostas: uma conta de conteúdo, fim das duplicatas, 4 reels + 1 carrossel/semana, CTA único CONSULTA, 4 linhas. Pendente: confirmar impulsionamento 24–28/10, directs/consultas do mês, qual conta fica.
 - 2026-11-06 — Estudo de mercado e benchmark concluídos (`estudo-mercado-medico-de-familia.md`); ficha criada com hipóteses; `banco.md` e `calendario.md` (rascunho de 30 dias) criados. Pendente: entrevista de 6 perguntas (`README.md`), auditoria `perfil`, `marca`.
